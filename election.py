@@ -308,7 +308,7 @@ def simulated_elections(times):
                 Current_President = 'Cruz'
                 President_List.append('Cruz')
             else:
-                KasichWins += 1
+                ClintonWins += 1
                 Current_President = 'Clinton'
                 President_List.append('Clinton')
     print("In our simulation Clinton won", ClintonWins, "times.")
