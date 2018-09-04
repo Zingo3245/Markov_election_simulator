@@ -1,6 +1,5 @@
 #Import numpy for arrays and random to simulate probability. I later added matplotlib for plotting.
 import numpy as np
-import random
 import matplotlib.pyplot as plt
 
 print("Please enter how many election simulations you want to run:")
