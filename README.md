@@ -9,4 +9,6 @@ After cloning this repo, go to where the repo is located and run the following i
 pip install -r requirements.txt
 python3 election.py```
 
+##
+
 You can also run the cells in jupyter notebook in the 2016_election_simulator notebook. Give it a try.
