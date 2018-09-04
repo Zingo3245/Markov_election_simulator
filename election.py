@@ -323,9 +323,9 @@ def simulated_elections(times):
     xwins = ['Clinton', 'Trump', 'Sanders', 'Cruz', 'Kasich']
     plt.figure(dpi=100)
     plt.bar(xwins, ywins, color='blue', edgecolor='black')
-    plt.xlabel('Canidate name')
-    plt.ylabel('Number of times canidate won')
-    plt.title('Number of times each canidate won in the simulation')
+    plt.xlabel('Candidate name')
+    plt.ylabel('Number of times candidate won')
+    plt.title('Number of times each candidate won in the simulation')
     plt.show()
     plt.figure(dpi=100)
     plt.plot(President_List)
